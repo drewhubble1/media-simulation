@@ -8,7 +8,7 @@
 
 # Dependencies
 
-* The program
+* The program does not have any dependancies, only standard c and c++ libraries are used.
 
 # How to run the program
 * The program can be run on mac using the following command:
