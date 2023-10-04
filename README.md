@@ -8,14 +8,12 @@
 
 # Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-# Executing the program
+* The program
 
 # How to run the program
+* The program can be run on mac using the following command:
 ```
-code blocks for commands
+g++-12 -o service_simulation.out service_simulation.cpp
 ```
 
 # Authors
