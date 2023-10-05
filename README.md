@@ -17,7 +17,7 @@ g++-12 -o service_simulation.out service_simulation.cpp
 ```
 * The program can be run on mac using the following command:
 ```
-./service_simulation.out
+./service_simulation.cpp
 ```
 
 # Authors
