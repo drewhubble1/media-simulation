@@ -11,9 +11,13 @@
 * The program does not have any dependancies, only standard c and c++ libraries are used.
 
 # How to run the program
-* The program can be run on mac using the following command:
+* The program can be compiled on mac using the following command:
 ```
 g++-12 -o service_simulation.out service_simulation.cpp
+```
+* The program can be run on mac using the following command:
+```
+./service_simulation.out
 ```
 
 # Authors
